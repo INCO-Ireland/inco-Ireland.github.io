@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.sans-serif {
+            font-family: 'Montserrat',
+                -apple-system,
+                BlinkMacSystemFont,
+                'avenir next',
+                avenir,
+                'helvetica neue',
+                helvetica,
+                ubuntu,
+                roboto,
+                noto,
+                'segoe ui',
+                arial,
+                sans-serif;
+        }
+
+        .bg-inco-blue {
+            background-color: rgba(0, 68, 158, 0.55);
+        }
+
+        .bg-blue{
+            background-color: #009adf;
+        }
+        .blue{
+            color: #009adf;
+        }
+        .b--blue {
+            border-color: #009adf;
+        }
