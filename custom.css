@@ -17,7 +17,8 @@
         }
 
         .bg-inco-blue {
-            background-color: rgba(0, 68, 158, 0.55);
+            /* background-color: rgba(0, 68, 158, 0.55); */
+            background-color: rgba(0, 68, 158, 0.03);
         }
 
         .bg-blue{
