@@ -16,13 +16,15 @@
 }
 
 .bg-blue {
-  background-color: #009adf;
+/*   background-color: #009adf; */
+  background-color: #1a3a5f;
 }
 .blue {
-  color: #009adf;
+/*   color: #009adf; */
+  color: #1a3a5f;
 }
 .b--blue {
-  border-color: #009adf;
+  border-color: #1a3a5f;
 }
 .shadow {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
